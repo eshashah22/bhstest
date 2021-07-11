@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Womens Safety App Final Proj</string>
+    <string name="linktosite">Learn more about women safety at\n<a href="https://www.instructables.com/Basic-Street-Safety-for-Women/">www.instructables.com</a></string>
+    <string name="title_activity_nearby_loc">Map</string>
+    <string name="google_map_key">"AIzaSyB85lEdxtXVTQ8PPCbeRoBI8BtX43YGj3A "</string>
+
+</resources>
